@@ -3,7 +3,7 @@
 __author__ = 'Farley'
 
 from chemi import CheMi
-from Page.baseTestCase import AppTestCase
+from baseTestCase import AppTestCase
 import unittest
 import time as t
 from swipetest import Swipetest
