@@ -300,3 +300,5 @@ print 'add dev1'
 print 'add dev'
 
 print 'add dev again'
+
+print 'test'
