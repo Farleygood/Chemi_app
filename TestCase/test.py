@@ -294,3 +294,7 @@ print r.headers
 print 'test'
 dict1 = {"ecode":0,"msg":"SUCCESS","data":[{"$id":"55d43d077f8b9ad56b8b4576","page_id":115323,"page_order":0}]}
 print dict1['data'][0]['page_id']
+
+print 'add dev1'
+
+print 'add dev'
